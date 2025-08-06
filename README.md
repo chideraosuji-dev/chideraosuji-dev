@@ -1,16 +1,31 @@
-## Hi there 👋
+# Chidera Einstein Osuji
 
-<!--
-**chideraosuji-dev/chideraosuji-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PMP-certified Business Analyst with 5+ years delivering data projects in retail and consumer finance.  
+I convert requirements into SQL / Python workflows and Power BI dashboards that shorten reporting cycles and surface risk.  
+Current search: business-analysis, project-coordination, or data-insight roles.
 
-Here are some ideas to get you started:
+## Portfolio overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Domain | Role | Tools | Status |
+|---------|--------|------|-------|--------|
+| Retail KPI Dashboard | E-commerce | BA / BI developer | Power BI, DAX | Live |
+| GenAI Credit-Risk Model | Consumer lending | BA / Analyst | Python, Pandas, ChatGPT | Live |
+| FX Tick-Lake | Capital markets | Data design | Python, AWS S3 / Glue / Athena | Planned |
+
+Full code and artefacts live in the repository `finance-data-portfolio`.
+
+## Core skills
+
+Power BI · SQL · Python · Requirements and BRD writing · Jira / Agile delivery · Stakeholder communication · Data storytelling · Responsible-AI practice
+
+## Roadmap
+
+* Aug–Sep 2025 Add sample Jira sprint board for project-coordination evidence  
+* Oct 2025 Publish Python feature-engineering lab on a finance dataset  
+* 2026 Complete FX Tick-Lake pipeline and launch Zaafro retail-pricing API
+
+## Contact
+
+Toronto, Canada  
+LinkedIn: linkedin.com/in/chidera-osuji-pmp®-5b330825b
+Email: osujieinstein@outlook.com
