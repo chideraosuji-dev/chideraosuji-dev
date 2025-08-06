@@ -18,11 +18,6 @@ Full code and artefacts live in the repository `finance-data-portfolio`.
 
 Power BI · SQL · Python · Requirements and BRD writing · Jira / Agile delivery · Stakeholder communication · Data storytelling · Responsible-AI practice
 
-## Roadmap
-
-* Aug–Sep 2025 Add sample Jira sprint board for project-coordination evidence  
-* Oct 2025 Publish Python feature-engineering lab on a finance dataset  
-* 2026 Complete FX Tick-Lake pipeline and launch Zaafro retail-pricing API
 
 ## Contact
 
