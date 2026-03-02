@@ -11,7 +11,7 @@ I deliver end-to-end systems analysis work—from discovery and requirements to 
 - UAT/testing: UAT plans, test cases, defect triage support
 
 ## Portfolio
-➡️ **Portfolio Hub:** `bsa-portfolio`  
+➡️ **Portfolio Hub:** [bsa-portfolio](https://github.com/chideraosuji-dev/bsa-portfolio)
 (Contains case studies, deliverable packs, and project documentation.)
 
 ## Contact
