@@ -2,18 +2,18 @@
 
 **Business Systems Analyst | Technical Business Analyst (Systems, Data, Integrations) | Toronto, Canada**
 
-I deliver end-to-end systems analysis work—from discovery and requirements to process mapping (BPMN), solution design, UAT planning, and rollout support. My work is documented as portfolio case studies with clear business context and deliverables (PDFs/diagrams).
+I work on end-to-end systems analysis, from discovery and requirements through process mapping (BPMN), solution design support, UAT planning, and rollout support. My portfolio is built around structured case studies and applied projects with clear business context, documented deliverables, and practical problem-solving across systems, data, retail, finance, and AI.
 
-## What I deliver
-- Requirements: BRD, user stories, acceptance criteria, traceability
+## Core Focus Areas
+- Requirements analysis: BRD, user stories, acceptance criteria, traceability
 - Process mapping: BPMN workflows and swimlanes
-- Systems analysis: current vs. future state, integrations, data validation
-- UAT/testing: UAT plans, test cases, defect triage support
+- Systems analysis: current-state and future-state assessment, integrations, data validation
+- UAT and testing: UAT plans, test cases, defect triage support
 
 ## Portfolio
-➡️ **Portfolio Hub:** [bsa-portfolio](https://github.com/chideraosuji-dev/bsa-portfolio)
-(Contains case studies, deliverable packs, and project documentation.)
+➡️ **Portfolio Hub:** [bsa-portfolio](https://github.com/chideraosuji-dev/bsa-portfolio)  
+Case studies, deliverable packs, and project documentation.
 
 ## Contact
-- LinkedIn: [https://linkedin.com/in/chidera-einstein-osuji](https://www.linkedin.com/in/chidera-einstein-osuji-pmp-5b330825b/)
+- [LinkedIn](https://www.linkedin.com/in/chidera-einstein-osuji-pmp-5b330825b/)
 - Email: osujieinstein@outlook.com
