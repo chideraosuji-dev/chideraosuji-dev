@@ -1,6 +1,6 @@
 # Chidera Einstein Osuji, PMP
 
-**Business Systems Analyst | AI Engineering & Automation | Accounting & Financial Systems**
+**Business Systems Analysis | AI Engineering | Financial Systems**
 
 *Builder & Founder | Building Intelligent Systems and Sustainable Businesses*
 
@@ -16,27 +16,19 @@ My background spans business analysis, systems integration, and operational impr
 
 ### [Retail Integrity Console](https://github.com/chideraosuji-dev/retail-integrity-console)
 
-**Retail Operations | Intelligent Automation | Financial Visibility**
+Retail operations · Exception management · Operational controls
 
-A proposed retail operations application focused on exception management, operational controls, and measurable business outcomes.
+A retail operations system in development, focused on tracking exceptions, improving accountability, and understanding business impact.
 
-**Status:** Business analysis documented; application, AI features, and financial reporting are planned. Open-source licensing will be decided before a software release.
+**Stage:** Business analysis documented; application development planned. [Explore the project](https://github.com/chideraosuji-dev/retail-integrity-console).
 
 ## Products & Ventures
 
-**Zaafro Merchant Studio**  
-*Merchant Commerce & Operations Platform*  
-Status: In development | Proprietary
+**Zaafro Merchant Studio** — Merchant commerce & operations · *In development*
 
-**Merchant Loyalty & Rewards Platform**  
-*Customer Retention & Rewards Infrastructure*  
-Status: Planned | Proprietary
+**Merchant Loyalty & Rewards Platform** — Customer loyalty & retention · *Planned*
 
-**Business Operations & Financial Control Platform**  
-*Remote Business Management, Reporting & Oversight*  
-Status: Planned | Proprietary
-
-Commercial product sites and demos will be linked when publicly available. Proprietary source code remains private.
+**Business Operations & Financial Control Platform** — Remote operations & financial oversight · *Planned*
 
 ## Explore My Work
 
