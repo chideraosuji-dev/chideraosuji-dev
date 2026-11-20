@@ -14,7 +14,7 @@ My background spans business analysis, systems integration, and operational impr
 
 ## Featured Public Project
 
-### [Retail Integrity Console](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
+### [Retail Integrity Console](https://github.com/chideraosuji-dev/retail-integrity-console)
 
 **Retail Operations | Intelligent Automation | Financial Visibility**
 
@@ -43,21 +43,21 @@ Commercial product sites and demos will be linked when publicly available. Propr
 <details>
 <summary><strong>Business Systems Analysis</strong> — Requirements, Process Design & Systems Architecture</summary>
 
-- [Retail Integrity Console — Requirements, stakeholder analysis & process documentation](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
+- [Retail Integrity Console — Requirements, stakeholder analysis & process documentation](https://github.com/chideraosuji-dev/retail-integrity-console)
 
 </details>
 
 <details>
 <summary><strong>AI Engineering & Automation</strong> — Intelligent Applications, Agents & Workflow Automation</summary>
 
-Planned capabilities in Retail Integrity Console: AI-assisted exception classification, operational insights, and workflow automation. [View project scope](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management).
+Planned capabilities in Retail Integrity Console: AI-assisted exception classification, operational insights, and workflow automation. [View project scope](https://github.com/chideraosuji-dev/retail-integrity-console).
 
 </details>
 
 <details>
 <summary><strong>Accounting & Financial Systems</strong> — Financial Controls, Reporting & Business Performance</summary>
 
-Planned capabilities in Retail Integrity Console: financial exposure estimates, operational reporting, and performance measurement. [View project scope](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management).
+Planned capabilities in Retail Integrity Console: financial exposure estimates, operational reporting, and performance measurement. [View project scope](https://github.com/chideraosuji-dev/retail-integrity-console).
 
 </details>
 
