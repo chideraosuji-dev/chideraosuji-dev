@@ -12,17 +12,15 @@ I work at the intersection of business systems, AI engineering, and accounting�
 
 My background spans business analysis, systems integration, and operational improvement. I'm expanding my expertise in AI engineering and financial systems to design intelligent solutions, strengthen business operations, and build sustainable ventures.
 
-## Featured Open-Source Project
+## Featured Public Project
 
 ### [Retail Integrity Console](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
 
-**Retail Operations | Intelligent Automation | Financial Intelligence**
+**Retail Operations | Intelligent Automation | Financial Visibility**
 
-A developing business operations application focused on exception management, operational controls, and financial visibility.
+A proposed retail operations application focused on exception management, operational controls, and measurable business outcomes.
 
-Designed to demonstrate business systems analysis, software architecture, AI-assisted workflows, and financial performance measurement.
-
-**Status:** Business analysis in progress | Application development planned
+**Status:** Business analysis documented; application, AI features, and financial reporting are planned. Open-source licensing will be decided before a software release.
 
 ## Products & Ventures
 
@@ -38,29 +36,29 @@ Status: Planned | Proprietary
 *Remote Business Management, Reporting & Oversight*  
 Status: Planned | Proprietary
 
-Product websites and demonstrations will be linked as they become available. Commercial source code remains private.
+Commercial product sites and demos will be linked when publicly available. Proprietary source code remains private.
 
 ## Explore My Work
 
 <details>
 <summary><strong>Business Systems Analysis</strong> — Requirements, Process Design & Systems Architecture</summary>
 
-- [Business Systems Analysis Portfolio](https://github.com/chideraosuji-dev/bsa-portfolio)
-- [Retail Integrity Console — Business Analysis Case Study](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
+- [BSA — Selected Work](https://github.com/chideraosuji-dev/bsa-portfolio)
+- [Retail Integrity Console — Analysis & Documentation](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
 
 </details>
 
 <details>
 <summary><strong>AI Engineering & Automation</strong> — Intelligent Applications, Agents & Workflow Automation</summary>
 
-Planned demonstrations within Retail Integrity Console include AI-assisted exception classification, operational insights, and workflow automation.
+Planned capabilities in Retail Integrity Console: AI-assisted exception classification, operational insights, and workflow automation. [View project scope](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management).
 
 </details>
 
 <details>
 <summary><strong>Accounting & Financial Systems</strong> — Financial Controls, Reporting & Business Performance</summary>
 
-Planned demonstrations within Retail Integrity Console include financial-impact analysis, operational reporting, and performance measurement.
+Planned capabilities in Retail Integrity Console: financial exposure estimates, operational reporting, and performance measurement. [View project scope](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management).
 
 </details>
 
