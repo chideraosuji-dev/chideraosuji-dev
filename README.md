@@ -43,8 +43,7 @@ Commercial product sites and demos will be linked when publicly available. Propr
 <details>
 <summary><strong>Business Systems Analysis</strong> — Requirements, Process Design & Systems Architecture</summary>
 
-- [BSA — Selected Work](https://github.com/chideraosuji-dev/bsa-portfolio)
-- [Retail Integrity Console — Analysis & Documentation](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
+- [Retail Integrity Console — Requirements, stakeholder analysis & process documentation](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
 
 </details>
 
