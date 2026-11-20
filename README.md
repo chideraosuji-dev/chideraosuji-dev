@@ -1,4 +1,3 @@
-
 # Chidera Einstein Osuji, PMP
 
 **Business Systems Analyst | AI Engineering & Automation | Accounting & Financial Systems**
@@ -11,37 +10,57 @@ Toronto, Canada
 
 I work at the intersection of business systems, AI engineering, and accounting—connecting business strategy, technology, and financial discipline to create measurable value.
 
-My foundation is in business analysis, systems integration, and operational improvement. I'm developing deeper expertise in AI engineering, automation, and financial systems to design intelligent solutions and build sustainable businesses across technology and traditional industries.
+My background spans business analysis, systems integration, and operational improvement. I'm expanding my expertise in AI engineering and financial systems to design intelligent solutions, strengthen business operations, and build sustainable ventures.
 
-## Featured Work
+## Featured Open-Source Project
 
-**[Retail Operational Integrity & Exception Management](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)**
+### [Retail Integrity Console](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
 
-Retail operations | Business systems analysis | Process controls
+**Retail Operations | Intelligent Automation | Financial Intelligence**
 
-A case study exploring operational visibility, exception management, and structured business process improvement.
+A developing business operations application focused on exception management, operational controls, and financial visibility.
 
-## Explore Portfolio
+Designed to demonstrate business systems analysis, software architecture, AI-assisted workflows, and financial performance measurement.
+
+**Status:** Business analysis in progress | Application development planned
+
+## Products & Ventures
+
+**Zaafro Merchant Studio**  
+*Merchant Commerce & Operations Platform*  
+Status: In development | Proprietary
+
+**Merchant Loyalty & Rewards Platform**  
+*Customer Retention & Rewards Infrastructure*  
+Status: Planned | Proprietary
+
+**Business Operations & Financial Control Platform**  
+*Remote Business Management, Reporting & Oversight*  
+Status: Planned | Proprietary
+
+Product websites and demonstrations will be linked as they become available. Commercial source code remains private.
+
+## Explore My Work
 
 <details>
-<summary><strong>Business Systems Analysis</strong> — Requirements, Integrations & Process Improvement</summary>
+<summary><strong>Business Systems Analysis</strong> — Requirements, Process Design & Systems Architecture</summary>
 
 - [Business Systems Analysis Portfolio](https://github.com/chideraosuji-dev/bsa-portfolio)
-- [Retail Operational Integrity & Exception Management](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
+- [Retail Integrity Console — Business Analysis Case Study](https://github.com/chideraosuji-dev/retail-operational-integrity-exception-management)
 
 </details>
 
 <details>
-<summary><strong>AI Engineering & Automation</strong> — Intelligent Systems, Agents & Applications</summary>
+<summary><strong>AI Engineering & Automation</strong> — Intelligent Applications, Agents & Workflow Automation</summary>
 
-Selected portfolio projects will be added as they are completed.
+Planned demonstrations within Retail Integrity Console include AI-assisted exception classification, operational insights, and workflow automation.
 
 </details>
 
 <details>
 <summary><strong>Accounting & Financial Systems</strong> — Financial Controls, Reporting & Business Performance</summary>
 
-Selected portfolio projects will be added as they are completed.
+Planned demonstrations within Retail Integrity Console include financial-impact analysis, operational reporting, and performance measurement.
 
 </details>
 
